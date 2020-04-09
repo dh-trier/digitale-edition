@@ -6,5 +6,6 @@ Das Seminar vermittelt Grundkenntnisse in XML und den darauf aufbauenden Technik
 Hinweis: Bitte installieren Sie vorab den Atom-Editor https://atom.io/
 
 Blogposts dazu:
+
 Can Atom replace oXygen? https://dragonfly.hypotheses.org/1127  
 Getting started with editing TEI XML using Atom  https://andrewdunning.ca/getting-started-editing-tei-xml-atom
